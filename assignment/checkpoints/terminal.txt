@@ -19,4 +19,4 @@ It allows you to see which files have been staged/not staged, or if particular f
 # 9 - What does the command 'git add .' do?
 Adds recent, uncommitted changes that you have made in the working directory to the staging area, which prepares them to be saved.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git push
+git push origin main
